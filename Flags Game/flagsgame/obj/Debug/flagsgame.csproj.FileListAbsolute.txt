@@ -1,0 +1,13 @@
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\bin\Debug\flagsgame.exe.config
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\bin\Debug\flagsgame.exe
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\bin\Debug\flagsgame.pdb
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.csprojAssemblyReference.cache
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.Form1.resources
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.Form2.resources
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.Form3.resources
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.Form4.resources
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.Properties.Resources.resources
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.csproj.GenerateResource.cache
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.csproj.CoreCompileInputs.cache
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.exe
+C:\Users\JMA0162986\source\repos\flagsgame\flagsgame\obj\Debug\flagsgame.pdb
