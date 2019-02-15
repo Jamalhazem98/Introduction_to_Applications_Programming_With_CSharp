@@ -1,0 +1,10 @@
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\bin\Debug\gpacalc.exe.config
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\bin\Debug\gpacalc.exe
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\bin\Debug\gpacalc.pdb
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\obj\Debug\gpacalc.csprojAssemblyReference.cache
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\obj\Debug\gpacalc.Form1.resources
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\obj\Debug\gpacalc.Properties.Resources.resources
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\obj\Debug\gpacalc.csproj.GenerateResource.cache
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\obj\Debug\gpacalc.csproj.CoreCompileInputs.cache
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\obj\Debug\gpacalc.exe
+C:\Users\JMA0162986\source\repos\gpacalc\gpacalc\obj\Debug\gpacalc.pdb
