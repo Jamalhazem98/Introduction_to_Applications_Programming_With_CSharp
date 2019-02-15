@@ -1,0 +1,10 @@
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\bin\Debug\notepadproject.exe.config
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\bin\Debug\notepadproject.exe
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\bin\Debug\notepadproject.pdb
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\obj\Debug\notepadproject.csprojAssemblyReference.cache
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\obj\Debug\notepadproject.Form1.resources
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\obj\Debug\notepadproject.Properties.Resources.resources
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\obj\Debug\notepadproject.csproj.GenerateResource.cache
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\obj\Debug\notepadproject.csproj.CoreCompileInputs.cache
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\obj\Debug\notepadproject.exe
+C:\Users\JMA0162986\source\repos\notepadproject\notepadproject\obj\Debug\notepadproject.pdb
